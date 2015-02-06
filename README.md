@@ -17,7 +17,7 @@ comparing classification to filtering. Pandora music recommendation example. com
 dividing data into 'buckets'. 10-fold cross validation. confusion matrix. Kappa statistic to evaluate a classifier's acuuracy. 
 <br>
 ##### [Naïve Bayes]
-Intro to probabilistic classification. lazy learner versus eager learner. Bayesian probability. Deriving the basic algorithm for naive bayes classification. Applying naïve bayes to house votes dataset. To be continued. 
+Intro to probabilistic classification. lazy learner versus eager learner. Bayesian probability. Deriving the basic algorithm for naive bayes classification. Applying naïve bayes to house votes dataset. Additive smoothing and guassian dist.
 <br>
 
 

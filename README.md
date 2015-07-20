@@ -1,9 +1,8 @@
-####Data Mining For Programmers
-
+### classify
 Learning the basics of supervised learning in Python. Each notebook deals with
 the basics of a subtopic. Check out the [book data mining for programmers].
 
-### notebooks
+#### notebooks
 <hr>
 ##### Introduction to recommendation systems
 Collaborative filtering and distances.

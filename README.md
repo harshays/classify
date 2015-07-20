@@ -11,7 +11,7 @@ Collaborative filtering and distances.
 Item-based filtering, cosine similarity for items
 <br>
 ##### Classification
-Nearest neighbor, normalizations
+Nearest neighbor, normalization
 <br>
 ##### Classification II
 Dividing data into 'buckets', 10-fold cross validation, confusion matrix, kappa statistic to evaluate a classifier's acuuracy 
